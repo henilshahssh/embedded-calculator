@@ -17,4 +17,4 @@ Access the calculator here: https://wokwi.com/projects/313584065603174976
 
 <!-- CONTACT -->
 ## Contact
-Henil Shah - [LinkedIn](https://www.linkedin.com/in/ssh-henil) - [Email](mailto:henilshahssh@gmail.com)
+Henil Shah - [LinkedIn](https://www.linkedin.com/in/henilshahssh) - [Email](mailto:henilshahssh@gmail.com)
